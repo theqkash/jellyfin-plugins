@@ -37,7 +37,7 @@ Ratings from IMDb, Rotten Tomatoes, Metacritic, Letterboxd, TMDb, Trakt, MyAnime
 
 ### [Terebi](https://github.com/theqkash/jellyfin-plugin-terebi)
 
-Xtream and M3U aggregator for Live TV: the same channel from many sources becomes one, with automatic failover, health checks, XMLTV guide data, logos, categories and number blocks. Ships no channels; bring your own sources.
+Xtream and M3U aggregator for Live TV: the same channel from many sources becomes one, with automatic failover, health checks, XMLTV guide data, logos, categories and number blocks. Ships no channels: bring your own sources or start with free public playlists such as [iptv-org](https://github.com/iptv-org/iptv).
 
 </td>
 </tr>
