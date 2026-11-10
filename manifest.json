@@ -1,0 +1,40 @@
+[
+  {
+    "guid": "9c1f6c3a-2b7e-4d5f-9a1e-6f0b2c4d8e71",
+    "name": "Laurels",
+    "description": "Ratings from many services (incl. Filmweb) and film awards.",
+    "overview": "Ratings from many services (incl. Filmweb) and film awards.",
+    "owner": "theqkash",
+    "category": "Metadata",
+    "imageUrl": "",
+    "versions": [
+      {
+        "version": "0.1.0.0",
+        "changelog": "",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/theqkash/jellyfin-plugin-laurels/releases/download/v0.1.0.0/laurels_0.1.0.0.zip",
+        "checksum": "61d675f6193a306763bc6f153bc73121",
+        "timestamp": "2026-10-23T13:58:18Z"
+      }
+    ]
+  },
+  {
+    "guid": "7d3e1b52-6f4a-4c8e-9b0d-2a5c7e9f1b34",
+    "name": "Terebi",
+    "description": "Xtream and M3U aggregator: merged channels, failover, health checks, EPG.",
+    "overview": "Xtream and M3U aggregator: merged channels, failover, health checks, EPG.",
+    "owner": "theqkash",
+    "category": "Live TV",
+    "imageUrl": "",
+    "versions": [
+      {
+        "version": "0.1.0.0",
+        "changelog": "",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/theqkash/jellyfin-plugin-terebi/releases/download/v0.1.0.0/terebi_0.1.0.0.zip",
+        "checksum": "43b000ccaa4205c16cbe524ca49c7073",
+        "timestamp": "2026-11-10T01:24:41Z"
+      }
+    ]
+  }
+]
